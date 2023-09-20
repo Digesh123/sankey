@@ -36,4 +36,5 @@ input{width: 100%;height: 50px; padding: 10px 20px;}
 @media only screen and (max-width: 600px) and (min-width: 1000px) {
 
 body{padding: 20px;}
+.join_free { position: relative;}
 }
